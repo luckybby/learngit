@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Create a new branch is quick.
 Create a new branch is quick AND simple.
 add merge
+This is computer 2
